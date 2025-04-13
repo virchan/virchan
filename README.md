@@ -1,16 +1,18 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="">!
 
-<!--
-**virchan/virchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+<a href="https://www.linkedin.com/in/virgil-chan-0a65b11b8/"><img height="20" src="./icons/linkedin.svg" alt=""/></a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm [Virgil](https://github.com/virchan), an applied scientist with a focus on practical machine learning. I enjoy turning research ideas into working systems and finding simple solutions to complex problems.
+
+Currently freelancing in the San Francisco Bay Area, I work across industry projects, open-source, and independent consulting.
+
+Previously, I did mathematical research in topology and earned my PhD from Purdue University.
+
+# Open-Source Summary
+
+I'm a core contributor to [scikit-learn](https://github.com/scikit-learn/scikit-learn).
+
+![Metrics](https://github.com/virchan/virchan/blob/main/github-metrics.svg)
