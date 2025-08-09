@@ -5,7 +5,7 @@
 </p>
 
 
-I'm [Virgil](https://github.com/virchan), an open source engineer with a focus on predictive analytics and practical machine learning. I enjoy turning research ideas into working systems and finding simple solutions to complex problems.
+I'm [Virgil](https://virchan.github.io/), an open source engineer with a focus on predictive analytics and practical machine learning. I enjoy turning research ideas into working systems and finding simple solutions to complex problems.
 
 Currently freelancing in the San Francisco Bay Area, I work across industry projects, open-source, and independent consulting.
 
